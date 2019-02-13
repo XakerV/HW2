@@ -1,6 +1,15 @@
-# tei-example
-
-1.  
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Россиада</title>
+</titleStmt>
+<respStmt>
+<persName>Владислава Подосинникова</persName>
+<resp>Выделение персоналий и мест</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
 <text>
 <speech>
 <said aloud="true" type="direct">-- Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
@@ -59,3 +68,4 @@
 <speech><said aloud="true" type="direct">-- Пришло три корабля с хлебом: народ веселится.</said></speech>
 <speech><said aloud="true" type="direct">-- Если б пришли три корабля с мышьяком на отраву всем дербентцам, я бы радовался один более, чем теперь они все вместе.</said></speech>
 </text>
+</TEI>
