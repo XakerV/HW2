@@ -2,11 +2,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Россиада</title>
+<title>Отрывки текстов</title>
 </titleStmt>
 <respStmt>
 <persName>Владислава Подосинникова</persName>
-<resp>Выделение персоналий и мест</resp>
+<resp>Выделение прямой речи</resp>
 </respStmt>
 </fileDesc>
 </teiHeader>
