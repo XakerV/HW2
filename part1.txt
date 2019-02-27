@@ -1,0 +1,20 @@
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Отрывки текстов</title>
+</titleStmt>
+<respStmt>
+<persName>Владислава Подосинникова</persName>
+<resp>Выделение прямой речи</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
+<text>
+<speech>
+<said aloud="true" type="direct">-- Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
+</speech>
+<speech>      
+<said aloud="true" type="direct">-- Нет, ами (дядя)! Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.</said>
+</speech>
+</text>
